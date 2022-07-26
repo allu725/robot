@@ -39,7 +39,8 @@ cachetools
 ujson
 pretty_errors
 TgCrypto
-Pyrogram
+pyrogram==1.4.16
+
 fontTools
 youtube-dl
 youtube_search_python
